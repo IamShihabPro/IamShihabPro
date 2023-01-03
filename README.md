@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shihab</h1>
-<h3 align="center">A Passionate Full-stack Web Developer & also Competitive Programmer</h3>
+<h3 align="center">A Full-stack Web Developer & also Competitive Programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
